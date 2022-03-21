@@ -1,0 +1,31 @@
+cashier1 : 02/20/2022 dont rmb
+cashier2 : 03/20/2022-3:30pm
+	_created generate receipt option	
+cashier3 : 03/20/2022-4:17pm
+	_furnish header(), line()
+cashier4 : 03/20/2022-5:46pm
+	_rewrite qty function
+	_styling output
+cashier5: 3/20/2022-7:42pm
+	_Cleaning code. no change in function.
+cashier6: 3/20/2022
+	_Resuable version****
+cashier7: 3/20/2022-9:27pm
+	_same as cashier6 but have preset
+cashier8: 03/20/2022-??
+	_added admin panel
+cashier9: 03/21/2022-6:26pm
+	_insert and delete
+cashier10: 03/21/2022-8:22pm
+	_add time system, history
+cashier11: 03/21/2022-8:37 
+	_fix history bug  (resuable)
+cashier12: 
+	_sound effect , add exit msg for delete and claer
+cashier13:3/21/2022-9:43pm
+	_Clean comment and space
+cashierFinal: 3/21/2022-9:43pm
+==============================================
+bcashier: 
+test1: 
+	_test time system
